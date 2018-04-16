@@ -1,3 +1,8 @@
+secure s3fs
+===========
+
+Included rc4 encrypt/decrypt when uploading and reading allowing only the computer with a active bucket to view the files.
+
 s3fs
 ====
 
